@@ -4,6 +4,7 @@ void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
+  //Edit made by Matthew_220083337
 
 
   //Last line print('Good bye')
@@ -22,5 +23,4 @@ void main()
     testMethod2();
 }
 
-//Edit made by Matthew_220083337
 //Editmade by Matthew_220083337 in GitPod
