@@ -22,5 +22,11 @@ void main()
     testMethod2();
 }
 
-//Edit made by Matthew_220083337
-//Editmade by Matthew_220083337 in GitPod
+
+
+// $ git status
+// $ git add *
+// $ git status
+// $ git commit -m "comment describing the edit"
+// $ git status
+// $ git push
